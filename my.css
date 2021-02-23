@@ -31,8 +31,8 @@
     width: 80%;
 }
 #para {
-  font: 22pt Lucida Console;
+  font: 22pt "Lucida Console";
   background: lightgrey;
   color: blue;
-  text-align: center;
+
 }
