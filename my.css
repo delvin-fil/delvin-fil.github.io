@@ -30,3 +30,8 @@
     font: 30pt a_GildiaLeanedBack; 
     width: 80%;
 }
+#p3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  background-color: lightgrey;
+  color: blue;
+}
